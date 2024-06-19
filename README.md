@@ -28,7 +28,7 @@ Answer the following questions based on your understanding of the installation a
 7. File and Folder Management:
    - Explain how to create, open, and manage files and folders in VS Code. How can users navigate between different files and directories efficiently?
 
-8. Settings and Preferences:
+8. Settings and Preferences:ff
    - Where can users find and customize settings in VS Code? Provide examples of how to change the theme, font size, and keybindings.
 
 9. Debugging in VS Code:
