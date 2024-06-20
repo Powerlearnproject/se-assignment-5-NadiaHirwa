@@ -65,13 +65,13 @@ USEFUL EXTENSIONS
 
 ADDITIONAL CONFIGURATIONS
 
-1. Terminal Integration:
+I. Terminal Integration:
    -Customize the integrated terminal by going to File > Preferences > Settings and searching for Terminal. You can set the default shell and other preferences.
 
-2. Workspace Settings:
+II. Workspace Settings:
    -Create a settings.json file in your workspace to customize settings specific to that project. This file can be found under .vscode/settings.json.
 
-- 3. Snippets:
+III. Snippets:
    -Create custom code snippets for frequently used code patterns. Go to File > Preferences > User Snippets and select the language for which you want to create a snippet.
 
 3. User Interface Overview:
