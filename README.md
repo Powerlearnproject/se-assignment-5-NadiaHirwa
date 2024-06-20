@@ -71,7 +71,7 @@ ADDITIONAL CONFIGURATIONS
 2. Workspace Settings:
    -Create a settings.json file in your workspace to customize settings specific to that project. This file can be found under .vscode/settings.json.
 
-3. Snippets:
+- 3. Snippets:
    -Create custom code snippets for frequently used code patterns. Go to File > Preferences > User Snippets and select the language for which you want to create a snippet.
 
 3. User Interface Overview:
@@ -627,7 +627,7 @@ In the Source Control view, stage the changes by clicking the + button next to e
 5. Push Changes to GitHub:
    Ensure you're signed in to GitHub in VS Code.
    Push the committed changes to GitHub by clicking the ellipsis (...) and selecting Push.
-   
+
 By following these steps and utilizing the Git integration features in VS Code, developers can effectively manage version control, collaborate on projects, and maintain a well-documented history of code changes.
 
  Submission Guidelines:
